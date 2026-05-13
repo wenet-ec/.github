@@ -1,10 +1,8 @@
-div align="center">
-
 # 🌐 WENet
 
 ### Edge computing, made boring.
 
-*We meet you where you are. Let us bring the edge to you*
+*We'll meet you where you are. Let us bring the edge to you*
 
 [![Website](https://img.shields.io/badge/web-wenet--ec.com-24344D?style=for-the-badge)](https://wenet-ec.com)
 
@@ -34,5 +32,3 @@ What it gives you:
 - 📊 **Metrics out of the box** — Prometheus-compatible scraping for the whole fleet
 - 🔄 **Self-update** — agents update themselves without you SSH-ing into every box
 - 🧩 **Pluggable** — event broker adapters, metrics consumers, integrations of your choosing
-
-</div>
